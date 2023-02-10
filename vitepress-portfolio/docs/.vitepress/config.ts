@@ -41,7 +41,7 @@ export default defineConfig({
   head: [
     [
       "link",
-      { rel: "icon", type: "image/svg+xml", href: "/assets/logo-black.ico" },
+      { rel: "icon", type: "image/png", href: "/assets/logo-black.png" },
     ],
   ],
 });

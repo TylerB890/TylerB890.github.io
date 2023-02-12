@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /gettings-started.md
+      link: /getting-started.md
     - theme: alt
       text: View on GitHub
       link: https://github.com/TylerB890

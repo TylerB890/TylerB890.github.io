@@ -17,6 +17,8 @@ export default defineConfig({
     logo: {
       light: "/assets/logo-black.svg",
       dark: "/assets/logo-grey.svg",
+      //light: "/assets/logo-new-black.png",
+      //dark: "/assets/logo-new-black.png",
     },
     nav: [
       { text: "Guide", link: "/guide" },
